@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AwesomeProject</string>
+
+    <string name="mapbox_access_token">pk.eyJ1Ijoia2lkYXVsdCIsImEiOiJjanVwZTh3N2cwcDJ6M3lvMTc0aXRoNWhuIn0.0TdR2JM7Hb7a0xGDbncesA</string>
+
+</resources>
